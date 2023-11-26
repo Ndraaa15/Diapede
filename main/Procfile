@@ -1,0 +1,1 @@
+web: gunicorn diapede.wsgi --log-file -
